@@ -7,7 +7,7 @@
 
 
 //GLOBAL SCOPE
-    ///Cuando declaramos una variable fuera de un cloque de codigo esta tendra un alcance  scope GLOBAL
+    ///Cuando declaramos una variable fuera de un bloque de codigo esta tendra un alcance  scope GLOBAL
     let fruit = 'Apple';
     function bestFruit(){
         console.log(fruit)
