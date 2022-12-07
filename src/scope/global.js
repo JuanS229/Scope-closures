@@ -18,7 +18,7 @@
     Apple*/
 
 
-    /* En caso de que cremos una inicialicemos una variable que no haya sido declarada dentro de un bloque de codigo como una funcion,
+    /* En caso de que inicialicemos una variable que no haya sido declarada dentro de un bloque de codigo como una funcion,
     esta pierde el scope local y pasa a tener un scope global*/
     function countries(){
         country = 'Colombia';
